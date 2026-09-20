@@ -1,0 +1,7 @@
+plan_id,plan_name,monthly_price,data_allowance_gb,plan_type
+1,Basic 2GB,30.0,2,Prepaid
+2,Value 5GB,40.0,5,Prepaid
+3,Standard 10GB,45.0,10,Prepaid
+4,Unlimited Core,55.0,35,Prepaid
+5,Unlimited Plus,60.0,50,Prepaid
+6,Unlimited Metro,65.0,60,Prepaid
