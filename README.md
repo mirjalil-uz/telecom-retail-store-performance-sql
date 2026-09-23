@@ -14,6 +14,17 @@ The project demonstrates an intermediate SQL skill set: multi-table joins, commo
 - How does customer value break down across the base (high/medium/low spenders)?
 - Where are the data-quality gaps (duplicate transactions, missing customer state) that would distort these numbers if left uncleaned?
 
+## Key Findings
+
+- **$3.0M in total revenue** at a **15.3% profit margin** across 15,000+ transactions
+- **Electronics drives ~49% of sales**, while **Office Supplies is unprofitable**
+- Higher discounts cut into profit margin, a trade-off that flags pricing-review candidates
+
+![Revenue by Category](images/category_revenue.png)
+![Monthly Revenue](images/monthly_revenue.png)
+![Regional Profit](images/regional_profit.png)
+![Discount vs Profit Margin](images/discount_profit_margin.png)
+
 ## Tools & Technologies
 - MySQL 8.0
 - MySQL Workbench (or the `mysql` CLI)
